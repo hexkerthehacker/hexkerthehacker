@@ -1,5 +1,5 @@
 ## Welcome 👋
-I am Thanh a.k.a hexkerthehacker - a passionate security engineer, offensive security enthusiast.
+I am Thanh - a passionate security engineer, offensive security enthusiast.
 
 > 👩‍🚀 In Science we trust, other things we pentest.
 
